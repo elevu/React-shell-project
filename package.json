@@ -22,7 +22,6 @@
   "homepage": "https://github.com/elevu/react-shell-project#readme",
   "description": "",
   "dependencies": {
-    "and": "^0.0.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0"
